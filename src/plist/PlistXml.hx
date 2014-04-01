@@ -1,3 +1,11 @@
+//	
+//	Plist xml reader for HaXe 3. 
+//	Parses the xml and returns a StringMap<Dynamic>. 
+//	Created for reading CocosBuilder CCB files.
+//
+//	Created by Nassos Yiannopoulos 01-03-2014
+//
+
 package plist;
 import Sys;
 import haxe.xml.*;
